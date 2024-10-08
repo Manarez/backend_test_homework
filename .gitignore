@@ -2,4 +2,4 @@
 *.doc
 
 #Игнорировать файл test.txt
-text.txt
+test.txt
